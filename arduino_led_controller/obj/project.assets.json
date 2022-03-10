@@ -226,11 +226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cftan\\source\\repos\\arduino_led_controller\\arduino_led_controller\\arduino_led_controller.csproj",
+      "projectUniqueName": "C:\\Users\\cftan\\Desktop\\Arduino-LED-controll-winform\\arduino_led_controller\\arduino_led_controller.csproj",
       "projectName": "arduino_led_controller",
-      "projectPath": "C:\\Users\\cftan\\source\\repos\\arduino_led_controller\\arduino_led_controller\\arduino_led_controller.csproj",
+      "projectPath": "C:\\Users\\cftan\\Desktop\\Arduino-LED-controll-winform\\arduino_led_controller\\arduino_led_controller.csproj",
       "packagesPath": "C:\\Users\\cftan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cftan\\source\\repos\\arduino_led_controller\\arduino_led_controller\\obj\\",
+      "outputPath": "C:\\Users\\cftan\\Desktop\\Arduino-LED-controll-winform\\arduino_led_controller\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
